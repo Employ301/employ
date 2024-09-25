@@ -1,4 +1,4 @@
 package com.example.employ;
 
-public class Shape {
+abstract class Shape {
 }
