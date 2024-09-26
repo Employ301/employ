@@ -2,7 +2,7 @@ package com.example.employ;
 
 abstract class Shape {
     int x, y;
-    String color = "blue";
+    String color = "white";
 
     public Shape(int x, int y) {
         this.x = x;
